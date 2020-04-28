@@ -4,6 +4,15 @@ Nesse desafio, você deve criar uma aplicação para continuar treinando o que v
 
 Essa será uma aplicação para que deve armazenar transações financeiras de entrada e saída, que deve permitir o cadastro e a listagem dessas transações.
 
+## Ferramentas utilizadas
+
+Para a implementação deste projeto foram utilizadas as seguintes tecnologias:
+* Node.js
+* Eslint
+* Jest
+* Prettier 
+* Typescript
+
 ## Executando o projeto
 
 Dentro da pasta do projeto rodar os seguintes comandos:
